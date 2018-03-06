@@ -1,6 +1,6 @@
 # python-challenge
 
-Homework 3 for Rutgers' Data Science Bootcamp
+Two basic challenges using Python to make dynamic scripts to real world problems.
 
 PyPoll is a simple script to find the winner of a fictional poll by running through a CSV file. The output displays the total votes in the polls, the candidates' total votes and their percentage of the total. The output will display in your command prompt and exported into a new text file names Output.
 
